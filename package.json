@@ -1,5 +1,5 @@
 {
-  "name": "templates_ejs",
+  "name": "Exemplo de CI com teste de getter e setter",
   "version": "1.0.0",
   "description": "Exemplo de layout de projeto",
   "main": "src/app.js",
